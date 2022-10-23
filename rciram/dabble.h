@@ -33,6 +33,6 @@ void tombol(){
     pernahstart=0;
   }
   if(start){
-    go!=go;
+    go=!go;
   }
 }
